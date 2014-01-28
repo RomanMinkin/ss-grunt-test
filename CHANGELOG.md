@@ -1,3 +1,12 @@
+<a name="v0.3.12"></a>
+### v0.3.12 (2014-01-28)
+
+
+#### Bug Fixes
+
+* **Gruntfile:** Test commit, will appear in `CHANGELOG.md` ([b5cf8bbb](http://github.com/socketstream/socketstream/commit/b5cf8bbb4720a1fb1921bd729708282654182f88))
+* **docs:** Typo fix, will appear in `CHANGELOG.md` ([9dd2e6b5](http://github.com/socketstream/socketstream/commit/9dd2e6b5ce6f8d8a0800b7a79b532ac0a2571106))
+
 <a name="v0.3.11"></a>
 ### v0.3.11 (2014-01-28)
 
