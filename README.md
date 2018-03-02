@@ -349,7 +349,7 @@ If SEO is important to you, take a look at [Derby](http://www.derbyjs.com). If y
 
 ### Testing
 
-There are a number of [Mocha](http://visionmedia.github.com/mocha/) tests starting to appear for parts of the API which are unlikely to change. To run them type:
+There are a number of [Mocha](http://mochajs.org/) tests starting to appear for parts of the API which are unlikely to change. To run them type:
 
     $ make test
     
